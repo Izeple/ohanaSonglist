@@ -21791,8 +21791,8 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.cnds.Compare,
 	cr.system_object.prototype.exps.zeropad,
 	cr.plugins_.AJAX.prototype.acts.Post,
+	cr.plugins_.TextBox.prototype.exps.Text,
 	cr.plugins_.Browser.prototype.exps.ExecJS,
 	cr.system_object.prototype.cnds.Every,
-	cr.plugins_.Text.prototype.acts.SetText,
-	cr.plugins_.TextBox.prototype.exps.Text
+	cr.plugins_.Text.prototype.acts.SetText
 ];};
